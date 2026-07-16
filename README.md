@@ -1,2 +1,3 @@
 # rypeguero.github.io
-CS 499 ePortfolio (in progress) — artifacts, enhancements, and reflections by Ryan Peguero
+
+CS 499 ePortfolio by Ryan Peguero — a portfolio of project artifacts, enhancements, and reflections.
